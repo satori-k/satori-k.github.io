@@ -23,7 +23,9 @@ author: Satori
 url: https://satori-k.github.io
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my story book
+  Welcome to my story book. Satori will write longer stories here.
+  
+  *So necessary to cooperate and share.*
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
