@@ -1,10 +1,10 @@
 
 navbar_entries:
-  - title: about
+  - title: ABOUT
     url: about
 
-  - title: blog
+  - title: BLOG
     url: blog
 
-  - title: website
+  - title: WEBSITE
     url: https://satori-k.github.io
