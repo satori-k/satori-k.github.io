@@ -24,8 +24,6 @@ url: https://satori-k.github.io
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my story book. Satori will write longer stories here.
-  
-  *So necessary to cooperate and share.*
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -37,7 +35,7 @@ remote_theme: abhinavs/moonwalk
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
   appearance_toggle: true # if appearance can be switched by user
-  back_home_text: "home.." # customize text for homepage link in post layout
+  back_home_text: "HOME" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description
   show_navbar: true # show horizontal navbar
