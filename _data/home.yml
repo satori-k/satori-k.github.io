@@ -8,3 +8,8 @@ navbar_entries:
 
   - title: WEBSITE
     url: https://satori-k.github.io
+
+project_entries:
+  - title: Friends
+    url: friends
+    desc: Friend links here.
