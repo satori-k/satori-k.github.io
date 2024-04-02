@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "精神状态检定"
-date:   2024-04-02 20:44:04 +0800
+date:   2024-04-02 20:04:04 +0800
 categories: stories
 ---
 
