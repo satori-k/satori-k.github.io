@@ -25,7 +25,7 @@ url: https://satori-k.github.io
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my story book. Satori will write longer stories here.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://satorisite.xyz"
 # twitter_username: jekyllrb
 github_username:  satori-k
 
