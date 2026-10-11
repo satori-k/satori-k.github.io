@@ -6,8 +6,11 @@ navbar_entries:
   - title: BLOG
     url: blog
 
-  - title: WEBSITE
-    url: https://satori-k.github.io
+  - title: GITHUB
+    url: https://github.com/satori-k
+
+  - title: FRIENDS
+    url: 2023/03/27/friends.html
 
 project_entries:
   - title: Friends
