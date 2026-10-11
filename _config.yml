@@ -30,7 +30,7 @@ url: "https://satorisite.xyz"
 github_username:  satori-k
 
 # Build settings
-remote_theme: abhinavs/moonwalk
+remote_theme: abhinavs/moonwalk@8d99eb2f6b0436d2d3e07d72b0d0b84a72c46108
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
