@@ -56,7 +56,7 @@ theme_config:
 #    title_old_projects: Old Projects
 
 plugins:
-  - jekyll-feed
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
